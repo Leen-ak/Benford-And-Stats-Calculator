@@ -1,0 +1,5 @@
+﻿  NBStatistics.cpp
+C:\$$$INFO1156-05, c++\Statistics\Statistics\FrequencyCalculatorHeader.hpp(38,17): warning C4244: 'argument': conversion from 'long double' to 'unsigned int', possible loss of data
+  StatisticsCalculatorBody.cpp
+  Generating Code...
+  Statistics.vcxproj -> C:\$$$INFO1156-05, c++\Statistics\x64\Debug\Statistics.exe
